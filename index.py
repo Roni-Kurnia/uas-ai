@@ -1,9 +1,6 @@
 """
 Studi Kasus: Prediksi Harga Rumah Menggunakan Linear Regression
 Perusahaan Properti Jakarta
-
-Author: AI Assistant
-Date: January 2026
 """
 
 # Import libraries yang diperlukan
