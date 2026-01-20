@@ -363,11 +363,6 @@ Model ini dapat digunakan untuk:
 ✓ Memvalidasi kewajaran harga rumah
 ✓ Identifikasi properti undervalued/overvalued
 
-Rekomendasi untuk improvement:
-• Tambahkan fitur lain (lokasi, fasilitas umum, kondisi bangunan)
-• Coba algoritma lain (Random Forest, XGBoost)
-• Lakukan feature engineering
-• Kumpulkan lebih banyak data
 """)
 
 print("="*60)
