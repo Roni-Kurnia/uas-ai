@@ -2,7 +2,7 @@
 PREDIKSI HARGA RUMAH - LINEAR REGRESSION 
 Studi Kasus: Perusahaan Properti Jakarta
 
-Kelompok:
+Kelompok UAS Artificial Intelligence:
 Nama: Roni Kurnia
 NIM: 3420230002
 
