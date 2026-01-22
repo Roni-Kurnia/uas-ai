@@ -1,6 +1,13 @@
 """
-PREDIKSI HARGA RUMAH - LINEAR REGRESSION (Versi Sederhana)
+PREDIKSI HARGA RUMAH - LINEAR REGRESSION 
 Studi Kasus: Perusahaan Properti Jakarta
+
+Kelompok:
+Nama: Roni Kurnia
+NIM: 3420230002
+
+Nama : Ahmad Fauzan
+NIM : 3420230018
 """
 
 import numpy as np
